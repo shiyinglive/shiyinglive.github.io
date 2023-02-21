@@ -20,7 +20,9 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+{% for talk in site.talks reversed %}
+  {% if talk.category == "detail" %}
+    {% include archive-single-talk.html %}
+  {% endif %}
 {% endfor %}
+
