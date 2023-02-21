@@ -15,6 +15,8 @@ Education
 Previous Appointments
 ======
 * Postdoctoral Research Associate, Aug 2019-2022, University of Virginia
-  Mentor: Dr. [Gustavo Rohde](https://engineering.virginia.edu/faculty/gustavo-kunde-rohde)
- [Imaging and Data Science Lab ](https://imagedatascience.com/)
+ 
+   Mentor: Dr. [Gustavo Rohde](https://engineering.virginia.edu/faculty/gustavo-kunde-rohde), Biomedical Engineering, Electrical and Computer Engineering
+  
+   [Imaging and Data Science Lab ](https://imagedatascience.com/)
 
