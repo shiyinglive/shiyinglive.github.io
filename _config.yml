@@ -84,11 +84,11 @@ author:
   avatar           : "shiyingli.png"
   bio              : "Ph.D. in Mathematics"
   email            : "shiyl@unc.edu"
-  location         : "Location"
+  location         : "Phillips Hall 396"
   employer         :
   pubmed           :
   googlescholar    : 
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
