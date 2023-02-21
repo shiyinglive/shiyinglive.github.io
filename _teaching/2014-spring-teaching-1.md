@@ -1,5 +1,5 @@
 ---
-title: "Current courses"
+title: "Current courses test"
 collection: teaching
 type: "Undergraduate course"
 permalink: 
