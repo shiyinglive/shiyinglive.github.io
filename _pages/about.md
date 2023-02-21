@@ -9,6 +9,8 @@ redirect_from:
 ---
 I am currently a Postdoctoral Research Associate and Teaching Assistant Professor at the University of North Carolina - Chapel Hill.
 
+I am working with Dr.[Caroline Moosmueller](https://math.unc.edu/faculty-member/moosmueller-caroline/), who is leading and actively building the [GEOMETRIC DATA ANALYSIS @ UNC](https://tarheels.live/cmoosm/) Group. 
+
 Research Interests
 ======
 Mathematical data science, Transport-based transforms with applications to signal/image analysis, Applied optimal transport, Approximation theory (splines), Collocation methods
