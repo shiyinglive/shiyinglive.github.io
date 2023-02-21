@@ -11,12 +11,15 @@ author_profile: true
 
 {% endif %}
 
-<h2>List of Talks</h2>
 {% for talk in site.talks %}
-  <h3>{{ talk.title }}</h3>
-  <p>{{ talk.date | date: "%B %d, %Y" }}</p>
-  <p>{{ talk.description }}</p>
+  {% if talk.category == "upcoming" %}
+    <h3>{{ talk.title }}</h3>
+    <p>{{ talk.date | date: "%B %d, %Y" }}</p>
+    <p>{{ talk.location }}</p>
+    <p>{{ talk.description }}</p>
+  {% endif %}
 {% endfor %}
+
 
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
