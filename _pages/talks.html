@@ -13,10 +13,8 @@ author_profile: true
 
 {% for talk in site.talks %}
   {% if talk.category == "upcoming" %}
-    <h3>{{ talk.title }}</h3>
-    <p>{{ talk.date | date: "%B %d, %Y" }}</p>
-    <p>{{ talk.location }}</p>
-    <p>{{ talk.description }}</p>
+    <<h3><a href="{{ talk.url }}">{{ talk.title }}</a></h3>
+    <p>{{ talk.location }}, {{ talk.date | date: "%B %d, %Y" }}</p>
   {% endif %}
 {% endfor %}
 
