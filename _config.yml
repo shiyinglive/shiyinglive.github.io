@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shiying Li"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Shiying Li"
 description              : &description "personal description"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Test name field 2"
+  name             : "Shiying Li"
   avatar           : "shiyingli.png"
-  bio              : "Test"
+  bio              : "Ph.D. in Mathematics"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
