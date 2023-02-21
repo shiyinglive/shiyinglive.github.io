@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am currently a Postdoctoral Research Associate and Teaching Assistant Professor at the University of North Carolina - Chapel Hill.
 
-I am working with Dr.[Caroline Moosmueller](https://math.unc.edu/faculty-member/moosmueller-caroline/), who is leading and actively building the [GEOMETRIC DATA ANALYSIS @ UNC](https://tarheels.live/cmoosm/) Group. 
+I am working with Dr. [Caroline Moosmueller](https://math.unc.edu/faculty-member/moosmueller-caroline/), who is leading and actively building the [GEOMETRIC DATA ANALYSIS @ UNC](https://tarheels.live/cmoosm/) Group. 
 
 Research Interests
 ======
