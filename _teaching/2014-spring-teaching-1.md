@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: 
 venue: "UNC"
-date: 2023 Spring
+date: 
 location: "City, Country"
 ---
 
