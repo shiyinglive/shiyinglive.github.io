@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Upcoming Conferences and Workshops"
+title: 
 permalink: /talks/
 author_profile: true
 ---
@@ -11,6 +11,15 @@ author_profile: true
 
 {% endif %}
 
+<h2>Past Talks</h2>
+{% for talk in site.talks %}
+  {% if talk.category == "past" %}
+    <h3><a href="{{ talk.address }}">{{ talk.title }}</a></h3> <p>{{ talk.location }}, {{ talk.date_start | date: "%B %d, %Y" }} - {{ talk.date_end | date: "%B %d, %Y" }}</p> (<a href="{{ talk.permalink }}">More Info</a>)
+  {% endif %}
+{% endfor %}
+
+
+<h2>Upcoming</h2>
 {% for talk in site.talks %}
   {% if talk.category == "upcoming" %}
     <h3><a href="{{ talk.address }}">{{ talk.title }}</a></h3>(<a href="{{ talk.permalink }}">More Info</a>)
