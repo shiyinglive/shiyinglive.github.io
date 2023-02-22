@@ -9,16 +9,18 @@ redirect_from:
 ---
 I am currently a Postdoc in the Department of Mathematics at the University of North Carolina - Chapel Hill.
 
-I am working with Dr. [Caroline Moosmueller](https://math.unc.edu/faculty-member/moosmueller-caroline/), who leads the [GEOMETRIC DATA ANALYSIS @ UNC](https://tarheels.live/cmoosm/) Group. 
+I am working with Prof. [Caroline Moosmueller](https://math.unc.edu/faculty-member/moosmueller-caroline/), who leads the [GEOMETRIC DATA ANALYSIS @ UNC](https://tarheels.live/cmoosm/) group. 
 
 Research Interests
 ======
 Mathematical data science, Transport-based transforms with applications to signal/image analysis, Applied optimal transport, Approximation theory (splines), Collocation methods
 
-Contact
+Upcoming Conferences & Talks
 ======
-1. Email: [shiyl@unc.edu](mailto:shiyl@unc.edu)
-1. Office: Phillips Hall 396
+1. [SIAM-SEAS](https://conference.math.vt.edu/vt-siam-seas/index.html), Mar 25-26, 2023.
+1. ICERM workshop: [Optimal Transport in Data Science](https://icerm.brown.edu/topical_workshops/tw-23-otds/), May 8-12, 2023.
+2. ICIAM, Aug 20-25, 2023, [minisymposium info]([mailto:shiyl@unc.edu](https://iciam2023.org/accepted_ms#00966_Theoretical_and_computational_advances_in_measure_transport))
+
 
 
 
