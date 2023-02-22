@@ -1,8 +1,8 @@
 ---
-title: "ICIAM 2023"
+title: "Numerical Analysis Seminar"
 collection: talks
 type: "Talk"
-address: "https://iciam2023.org/"
+address: "https://math.sciences.ncsu.edu/event/numerical-analysis-seminar-shiying-li-unc-chapel-hill-transport-transforms-for-machine-learning-applications/"
 category: "past"
 permalink: /talks/2012-03-01-talk-1
 venue: "North Caroline State University"
