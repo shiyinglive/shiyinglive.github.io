@@ -11,6 +11,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Mathmatics, Vanderbilt University, 2019
+
   Advisors: Prof. [Larry Schumaker](https://as.vanderbilt.edu/math/bio/?who=larry-schumaker) and Prof. [Mike Neamtu](https://as.vanderbilt.edu/math/bio/?who=mike-neamtu)
 
 Previous Appointments
