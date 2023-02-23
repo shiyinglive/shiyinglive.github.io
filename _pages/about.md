@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a postdoc in the Department of Mathematics at the University of North Carolina - Chapel Hill.
+I am currently a [postdoc](https://math.unc.edu/people/postdocs/) in the Department of Mathematics at the University of North Carolina - Chapel Hill.
 
 I am working with Prof. [Caroline Moosmueller](https://math.unc.edu/faculty-member/moosmueller-caroline/), who leads the [GEOMETRIC DATA ANALYSIS @ UNC](https://tarheels.live/cmoosm/) group. 
 
