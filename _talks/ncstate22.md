@@ -6,6 +6,7 @@ address: "https://math.sciences.ncsu.edu/event/numerical-analysis-seminar-shiyin
 category: "past"
 permalink: /talks/ncstate22
 venue: "Department of Mathematics"
+date: 2022-11-15
 date_start: 2022-11-15
 date_end: 2022-11-15
 location: "NC State University"
