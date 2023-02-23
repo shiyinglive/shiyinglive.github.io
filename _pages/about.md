@@ -19,7 +19,7 @@ Upcoming Conferences & Talks
 ======
 1. [SIAM-SEAS](https://conference.math.vt.edu/vt-siam-seas/index.html), Mar 25-26, 2023.
 1. ICERM workshop: [Optimal Transport in Data Science](https://icerm.brown.edu/topical_workshops/tw-23-otds/), May 8-12, 2023.
-2. [ICIAM](https://iciam2023.org), Aug 20-25, 2023, [minisymposium info](https://iciam2023.org/accepted_ms#00966_Theoretical_and_computational_advances_in_measure_transport)
+2. [ICIAM](https://iciam2023.org), Aug 20-25, 2023, [mini-symposium info](https://iciam2023.org/accepted_ms#00966_Theoretical_and_computational_advances_in_measure_transport)
 
 
 
