@@ -13,16 +13,16 @@ author_profile: true
 
 
 <h2>Past Talks</h2>
-{% for talk in site.talks reversed %}
-  {% if talk.category == "past" %}
-    {% if talk.date %}
-      {% capture talk_date %}{{ talk.date | date: "%B %d, %Y" }}{% endcapture %}
-    {% else %}
-      {% capture talk_date %}{{ talk.date_start | date: "%B %d" }}-{{ talk.date_end | date: "%d, %Y" }}{% endcapture %}
-    {% endif %}
-    <h3><a href="{{ talk.address }}">{{ talk.title }}</a> - {{ talk.location }}, {{ talk_date }} - <a href="{{ talk.permalink }}">More Info</a></h3>
+{% assign past_talks = site.talks | where: "category", "past" | sort: "date" | reverse %}
+{% for talk in past_talks %}
+  {% if talk.date %}
+    {% capture talk_date %}{{ talk.date | date: "%B %d, %Y" }}{% endcapture %}
+  {% else %}
+    {% capture talk_date %}{{ talk.date_start | date: "%B %d" }}-{{ talk.date_end | date: "%d, %Y" }}{% endcapture %}
   {% endif %}
+  <h3><a href="{{ talk.address }}">{{ talk.title }}</a> - {{ talk.location }}, {{ talk_date }} - <a href="{{ talk.permalink }}">More Info</a></h3>
 {% endfor %}
+
 
 
 
