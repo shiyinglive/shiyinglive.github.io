@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 address: "https://my.vanderbilt.edu/nashville2023"
 category: "upcoming"
-permalink: /talks/2023-May-AT
+permalink: /talks/2023May_AT
 venue: "Vanderbilt Universiy"
 date_start: 2023-05-15
 date_end: 2023-05-18
