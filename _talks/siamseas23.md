@@ -3,7 +3,7 @@ title: "SIAM-SEAS 2023"
 collection: talks
 type: "Talk"
 address: "https://conference.math.vt.edu/vt-siam-seas/index.html"
-category: "past"
+category: "upcoming"
 permalink: /talks/siamseas23
 venue: "Virginia Tech"
 date_start: 2023-03-25
