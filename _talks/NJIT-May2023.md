@@ -2,9 +2,9 @@
 title: "FACM 2023"
 collection: talks
 type: "Talk"
-address: "https://conference.math.vt.edu/vt-siam-seas/index.html"
+address: "https://sites.google.com/njit.edu/facm2023/home"
 category: "past"
-permalink: /talks/siamseas23
+permalink: /talks/NJIT-May2023
 venue: "NJIT"
 date_start: 2023-05-26
 date_end: 2023-05-27
