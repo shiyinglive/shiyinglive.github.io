@@ -8,37 +8,4 @@ author_profile: true
 
 
 
-{% if site.talkmap_link == true %}
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-{% endif %}
-
-
-<h2>Past Talks</h2>
-{% assign past_talks = site.talks | where: "category", "past" | sort: "date_start" %}
-{% for talk in past_talks %}
-  {% if talk.date %}
-    {% capture talk_date %}{{ talk.date | date: "%B %d, %Y" }}{% endcapture %}
-  {% else %}
-    {% capture talk_date %}{{ talk.date_start | date: "%B %d" }}-{{ talk.date_end | date: "%d, %Y" }}{% endcapture %}
-  {% endif %}
-  <h3><a href="{{ talk.address }}">{{ talk.title }}</a> - {{ talk.location }}, {{ talk_date }} - <a href="{{ talk.permalink }}">More Info</a></h3>
-{% endfor %}
-
-
-
-
-<h2>Upcoming</h2>
-{% assign upcoming_talks = site.talks | where: "category", "upcoming" | sort: "date_start" %}
-{% for talk in upcoming_talks %}
-    {% if talk.date %}
-      {% capture talk_date %}{{ talk.date | date: "%B %d, %Y" }}{% endcapture %}
-    {% else %}
-      {% capture talk_date %}{{ talk.date_start | date: "%B %d" }}-{{ talk.date_end | date: "%d, %Y" }}{% endcapture %}
-    {% endif %}
-    <h3><a href="{{ talk.address }}">{{ talk.title }}</a> - {{ talk.location }}, {{ talk_date }} - <a href="{{ talk.permalink }}">More Info</a></h3>
-{% endfor %}
-
-
-
-
 
