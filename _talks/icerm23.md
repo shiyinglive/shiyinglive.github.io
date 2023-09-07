@@ -3,7 +3,7 @@ title: "ICERM Optimal Transport in Data Science"
 collection: talks
 type: "Talk"
 address: "https://icerm.brown.edu/topical_workshops/tw-23-otds/"
-category: "past"
+category: "upcoming"
 permalink: /talks/icerm23
 venue: "Virginia Tech"
 date_start: 2023-05-08
