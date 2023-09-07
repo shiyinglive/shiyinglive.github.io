@@ -4,9 +4,6 @@ title:
 permalink: /talks/
 author_profile: true
 ---
-{% if site.talkmap_link == true %}
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-{% endif %}
 
 <h2>Past Talks</h2>
 {% assign past_talks = site.talks | where: "category", "past" | sort: "date_start" | reverse %}
