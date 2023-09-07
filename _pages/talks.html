@@ -5,9 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
-<h2>Past</h2>
-{% assign past_talks = site.talks | where: "category", "past" | sort: "date_start" %}
-{% for talk in past_talks %}
+<h2>Upcoming</h2>
+{% assign upcoming_talks = site.talks | where: "category", "upcoming" | sort: "date_start" %}
+{% for talk in upcoming_talks %}
   {% if talk.date %}
     {% capture talk_date %}{{ talk.date | date: "%B %d, %Y" }}{% endcapture %}
   {% else %}
