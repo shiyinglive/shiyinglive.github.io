@@ -3,7 +3,7 @@ title: "FACM 2023"
 collection: talks
 type: "Talk"
 address: "https://sites.google.com/njit.edu/facm2023/home"
-category: "past"
+category: "Upcoming"
 permalink: /talks/NJIT-May2023
 venue: "NJIT"
 date_start: 2023-05-26
