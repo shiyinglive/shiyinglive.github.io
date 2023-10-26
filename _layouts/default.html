@@ -15,10 +15,22 @@ layout: compress
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
-    {% include teaching_nav.html %}
 
+    <!-- Navigation Menu -->
+    <nav class="site-nav">
+      <ul>
+        <li><a href="/cv/">CV</a></li>
+        {% if page.url != '/cv/' %}
+          <li><a href="/page/teaching/">Teaching</a></li>
+        {% endif %}
+        <!-- Other navigation items -->
+      </ul>
+    </nav>
+
+    <!-- Main Content of Your Page -->
     {{ content }}
 
+    <!-- Footer Section -->
     <div class="page__footer">
       <footer>
         {% include footer/custom.html %}
@@ -26,6 +38,7 @@ layout: compress
       </footer>
     </div>
 
+    <!-- Scripts and JavaScript Files -->
     {% include scripts.html %}
 
   </body>
