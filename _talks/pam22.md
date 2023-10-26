@@ -3,7 +3,7 @@ title: "PAM Lunch Talk"
 collection: talks
 type: "Talk"
 address: "https://math.unc.edu/events/pam-lunch-talks/"
-category: "past"
+category: "upcoming"
 permalink: /talks/pam22
 venue: "Department of Mathematics"
 date: 2023-1-25
