@@ -11,7 +11,7 @@ date_end: 2023-03-26
 location: "Virginia Tech, Blacksburg"
 ---
 
-The 45th [SIAM-SEAS](https://conference.math.vt.edu/vt-siam-seas/index.html)(SIAM Southeastern Atlantic Section Annual Meeting) will be hosted by Virginia Tech.
+The 45th [SIAM-SEAS](https://conference.math.vt.edu/vt-siam-seas/index.html) (SIAM Southeastern Atlantic Section Annual Meeting) will be hosted by Virginia Tech.
 I will speak in the mini-symposium "Non-linear stochastic data assimilation - theory and applications". The  __session__ info can be found below.
 
 Description of session: Reconstruction of the probability density functions 
