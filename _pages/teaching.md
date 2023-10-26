@@ -7,6 +7,8 @@ redirect_from:
   - /teaching
 ---
 
+{% include base_path %}
+
 Recent Courses
 ======
 * test
