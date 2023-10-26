@@ -1,17 +1,15 @@
 ---
 layout: archive
-title: "Teaching"
+title: 
 permalink: /teaching/
 author_profile: true
 redirect_from:
   - /teaching
 ---
 
-{% include base_path %}
-
-## Teaching
-
-Describe your teaching activities, philosophy, or any other relevant information here.
+Recent Courses
+======
+* test
 
 
 
