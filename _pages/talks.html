@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <h2>Upcoming</h2>
-{% assign upcoming_talks = site.talks | where: "category", "upcoming" | sort: "date_start" %}
+{% assign upcoming_talks = site.talks | where: "category", "upcoming" | sort: "date_start" | reverse %}
 {% for talk in upcoming_talks %}
   {% if talk.date %}
     {% capture talk_date %}{{ talk.date | date: "%B %d, %Y" }}{% endcapture %}
