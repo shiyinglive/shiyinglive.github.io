@@ -6,6 +6,7 @@ address: "https://my.vanderbilt.edu/cca/seminars/"
 category: "upcoming"
 permalink: /talks/Vandy_CA_seminar
 venue: "Vanderbilt University"
+date: 2023-11-28
 date_start: 2023-11-28
 date_end: 2023-11-28
 location: "Nashville, Tennessee"
