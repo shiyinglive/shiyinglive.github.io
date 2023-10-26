@@ -6,7 +6,6 @@ address: "https://sites.google.com/view/siam-nynjpa/annual-meeting/program"
 category: "upcoming"
 permalink: /talks/siamnnp2023
 venue: "NJIT"
-date: 2023-10-21
 date_start: 2023-10-20
 date_end: 2023-10-22
 location: "Newark, New Jersey"
