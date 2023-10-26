@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Education
+Recent Courses
 ======
 * Ph.D in Mathmatics, Vanderbilt University, 2019
 
