@@ -2,7 +2,7 @@
 title: "SIAM-NNP 2023"
 collection: talks
 type: "Talk"
-address: "https://sites.google.com/view/siam-nynjpa/annual-meeting/program"
+address: "https://sites.google.com/view/siam-nynjpa/annual-meeting/"
 category: "upcoming"
 permalink: /talks/siamnnp23
 venue: "NJIT"
