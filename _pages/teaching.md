@@ -4,23 +4,20 @@ title:
 permalink: /teaching/
 author_profile: true
 redirect_from:
-  - /resume
+  - /courses
 ---
 
 {% include base_path %}
-Recent Courses
+Recent Courses at UNC-Chapel Hill
 ======
-* Ph.D in Mathmatics, Vanderbilt University, 2019
+* Fall 2023: Linear Algebra for Applications (Math 347)
+* Spring 2023: Discrete Mathematics (Math 381)
+* Fall 2022: Numerical Analysis (Math 566)
 
-  Advisors: Prof. [Larry Schumaker](https://as.vanderbilt.edu/math/bio/?who=larry-schumaker) and Prof. [Mike Neamtu](https://as.vanderbilt.edu/math/bio/?who=mike-neamtu)
-
-Previous Appointments
+Co-Instructed Courses at UVA
 ======
-* Postdoctoral Research Associate, Aug 2019-2022, University of Virginia
- 
-   Mentor: Prof. [Gustavo Rohde](https://engineering.virginia.edu/faculty/gustavo-kunde-rohde), Biomedical Engineering, Electrical and Computer Engineering
-  
-   [Imaging and Data Science Lab ](https://imagedatascience.com/)
+* Spring 2021 Computational Biomedical engineering (BME2315)
+* Fall 2020: Transport methods in signal processing and machine learning (graduate BME 6550)
 
 
 
