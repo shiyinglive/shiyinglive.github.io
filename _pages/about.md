@@ -13,7 +13,7 @@ I am working with Prof. [Caroline Moosmueller](https://math.unc.edu/faculty-memb
 
 Research Interests
 ======
-Mathematical data science, Transport-based transforms with applications to signal/image analysis, Applied optimal transport, Approximation theory (splines), Collocation methods
+Applied optimal transport, Mathematical data science, signal/image analysis, Approximation theory (splines), Collocation methods
 
 Recent Talks
 ======
