@@ -1,9 +1,0 @@
-<ul>
-   {% assign domain = base_path %}
-   {% assign active = "" %}
-   {% if page.url == "/page/teaching/" %}
-     {% assign active = "active" %}
-   {% endif %}
-   <li><a href="{{ domain }}/page/teaching/" class="{{ active }}"><span class="nav__sub-title">Teaching</span></a></li>
-   {% include nav_list %}
-</ul>
