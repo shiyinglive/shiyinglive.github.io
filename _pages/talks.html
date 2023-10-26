@@ -11,7 +11,11 @@ author_profile: true
   {% if talk.date %}
     {% capture talk_date %}{{ talk.date | date: "%B %d, %Y" }}{% endcapture %}
   {% else %}
-    {% capture talk_date %}{{ talk.date_start | date: "%B %d" }}-{{ talk.date_end | date: "%d, %Y" }}{% endcapture %}
+    {% if talk.date_start == talk.date_end %}
+      {% capture talk_date %}{{ talk.date_start | date: "%B %d, %Y" }}{% endcapture %}
+    {% else %}
+      {% capture talk_date %}{{ talk.date_start | date: "%B %d" }}-{{ talk.date_end | date: "%d, %Y" }}{% endcapture %}
+    {% endif %}
   {% endif %}
   <h3><a href="{{ talk.address }}">{{ talk.title }}</a> - {{ talk.location }}, {{ talk_date }} - <a href="{{ talk.permalink }}">More Info</a></h3>
 {% endfor %}
@@ -22,10 +26,15 @@ author_profile: true
   {% if talk.date %}
     {% capture talk_date %}{{ talk.date | date: "%B %d, %Y" }}{% endcapture %}
   {% else %}
-    {% capture talk_date %}{{ talk.date_start | date: "%B %d" }}-{{ talk.date_end | date: "%d, %Y" }}{% endcapture %}
+    {% if talk.date_start == talk.date_end %}
+      {% capture talk_date %}{{ talk.date_start | date: "%B %d, %Y" }}{% endcapture %}
+    {% else %}
+      {% capture talk_date %}{{ talk.date_start | date: "%B %d" }}-{{ talk.date_end | date: "%d, %Y" }}{% endcapture %}
+    {% endif %}
   {% endif %}
   <h3><a href="{{ talk.address }}">{{ talk.title }}</a> - {{ talk.location }}, {{ talk_date }} - <a href="{{ talk.permalink }}">More Info</a></h3>
 {% endfor %}
+
 
 
 
