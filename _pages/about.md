@@ -15,7 +15,7 @@ Research Interests
 ======
 Applied optimal transport, Mathematical data science, Signal/image analysis, Approximation theory (splines), Collocation methods
 
-Recent Talks
+Recent Presentations 
 ======
 1. [Computational Analysis Seminar](https://my.vanderbilt.edu/cca/seminars/) at Vanderbilt, Nov 28, 2023.
 2. [TriCAMS](https://services.math.duke.edu/Tricams/), Nov 10-11, 2023
