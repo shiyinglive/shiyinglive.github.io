@@ -16,8 +16,8 @@ Recent Courses at UNC-Chapel Hill
 
 Co-Instructed Courses at UVA
 ======
-* Spring 2021 Computational Biomedical engineering (BME2315)
-* Fall 2020: Transport methods in signal processing and machine learning (graduate BME 6550)
+* Spring 2021 Computational Biomedical Engineering (BME2315)
+* Fall 2020: Transport Methods in Signal Processing and Machine learning (graduate, BME 6550)
 
 
 
