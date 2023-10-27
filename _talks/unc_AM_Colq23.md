@@ -1,5 +1,5 @@
 ---
-title: "Numerical Analysis Seminar"
+title: "Applied Mathematics Colloquium"
 collection: talks
 type: "Talk"
 address: "https://math.unc.edu/events/applied-mathematics-colloquium/"
