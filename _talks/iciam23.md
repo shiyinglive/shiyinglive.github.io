@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 address: "https://iciam2023.org/1030"
 category: "upcoming"
-permalink: /talks/siamnnp23
+permalink: /talks/iciam23
 venue: "Waseda University"
 date_start: 2023-08-20
 date_end: 2023-08-25
