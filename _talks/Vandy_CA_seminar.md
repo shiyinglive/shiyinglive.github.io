@@ -11,3 +11,5 @@ date_start: 2023-11-28
 date_end: 2023-11-28
 location: "Nashville, Tennessee"
 ---
+
+I will give a talk at the [Computational Analysis Seminar](https://as.vanderbilt.edu/math/events/) in the Department of Mathematics at Vanderbilt University. 
