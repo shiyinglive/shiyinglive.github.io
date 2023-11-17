@@ -12,6 +12,6 @@ location: "Durham, NC"
 ---
 
 The second [Triangle Computational and Applied Mathematics Symposium (TriCAMS)](https://services.math.duke.edu/Tricams/) will be jointly hosted by Duke University and NC Central University. 
-I will present a poster and give a lightning talk. 
+I presented a [poster](https://www.dropbox.com/scl/fi/n0wruskqmnwbz9l9f7cod/ShiyingLi-Poster.pdf?rlkey=kecyaurli9f7qkzibvisarljs&dl=0) and gave a lightning talk. [Poster prize announcement](https://math.unc.edu/math-new/tricams-triumphs-unc-mathematics-excels-in-poster-competitions/).
 
 
