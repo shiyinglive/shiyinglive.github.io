@@ -3,7 +3,7 @@ title: "Applied Mathematics Colloquium"
 collection: talks
 type: "Talk"
 address: "https://math.unc.edu/events/applied-mathematics-colloquium/"
-category: "upcoming"
+category: "past"
 permalink: /talks/unc_AM_Colq
 venue: "Department of Mathematics"
 date: 2023-10-11
