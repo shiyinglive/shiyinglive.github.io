@@ -3,7 +3,7 @@ title: " Applied Mathematics Research Showcase"
 collection: talks
 type: "Talk"
 address: "https://math.unc.edu/event/applied-mathematics-colloquium-tba/"
-category: "upcoming"
+category: "past"
 permalink: /talks/ResearchShowcase23
 venue: "Department of Mathematics"
 date: 2023-01-18
