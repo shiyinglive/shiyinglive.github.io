@@ -3,7 +3,7 @@ title: "TriCAMS 2023"
 collection: talks
 type: "Talk"
 address: "https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program.html"
-category: "upcoming"
+category: "past"
 permalink: /talks/triCAMS2023
 venue: "Duke and NCCU"
 date_start: 2023-11-10
