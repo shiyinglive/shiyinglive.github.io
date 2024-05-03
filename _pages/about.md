@@ -15,7 +15,7 @@ Research Interests
 ======
 Applied optimal transport, Mathematical data science, Signal/image analysis, Approximation theory (splines), Collocation methods
 
-Recent Presentations 
+Recent Conferences and Activities 
 ======
 1. [MRC Conference Week 2: Mathematics of Adversarial, Interpretable, and Explainable AI](https://www.ams.org/programs/research-communities/2024MRC-AI) at Java Center, NY, June 23 - 29, 2024.
 2. [SIAM IS24](https://www.siam.org/conferences/cm/conference/is24), Atlanta, Georgia, May 28-31, 2024
