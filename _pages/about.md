@@ -17,10 +17,10 @@ Applied optimal transport, Mathematical data science, Signal/image analysis, App
 
 Recent Presentations 
 ======
-1. [Computational Analysis Seminar](https://my.vanderbilt.edu/cca/seminars/) at Vanderbilt, Nov 28, 2023.
-2. [TriCAMS](https://services.math.duke.edu/Tricams/), Nov 10-11, 2023
-3. [SIAM-NNP 2023](https://sites.google.com/view/siam-nynjpa/annual-meeting), Oct 21-22, 2023.
-4. [Applied Mathematics Colloquium](https://math.unc.edu/events/applied-mathematics-colloquium/#:~:text=Applied%20Mathematics%20Colloquia%20are%20held,00%20PM%20in%20Phillips%20330) at UNC-Chapel Hill, Oct 11, 2023.
+1. [MRC Conference Week 2: Mathematics of Adversarial, Interpretable, and Explainable AI](https://www.ams.org/programs/research-communities/2024MRC-AI) at Java Center, NY, June 23 - 29, 2024.
+2. [SIAM IS24](https://www.siam.org/conferences/cm/conference/is24), Atlanta, Georgia, May 28-31, 2024
+3. [Algorithms & PDE Summer School and Workshop](https://www.ndguillen.com/AlgorithmsAndPDE_TXST_UT/index.html), San Marcos & Austin, TX, May 13-19, 2024.
+
 
 
 
