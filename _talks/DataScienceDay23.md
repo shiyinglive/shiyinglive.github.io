@@ -3,7 +3,7 @@ title: "Data Science Day at UNC"
 collection: talks
 type: "Talk"
 address: "https://datascience.unc.edu/data-science-day-agenda/"
-category: "upcoming"
+category: "past"
 permalink: /talks/DataScienceDay23
 venue: "Innovate Carolina Junction"
 date: 2023-09-29
