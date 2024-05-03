@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 Recent courses taught at UNC-Chapel Hill
 ======
+* Spring 2024: Mathematics for Data Science (Math 210)
 * Fall 2023: Linear Algebra for Applications (Math 347)
 * Spring 2023: Discrete Mathematics (Math 381)
 * Fall 2022: Numerical Analysis (Math 566)
