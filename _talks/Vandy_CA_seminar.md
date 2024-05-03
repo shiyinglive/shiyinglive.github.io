@@ -3,7 +3,7 @@ title: "Computational Analysis Seminar at Vanderbilt"
 collection: talks
 type: "Talk"
 address: "https://my.vanderbilt.edu/cca/seminars/"
-category: "upcoming"
+category: "past"
 permalink: /talks/Vandy_CA_seminar
 venue: "Vanderbilt University"
 date: 2023-11-28
