@@ -3,7 +3,7 @@ title: "ICIAM 2023"
 collection: talks
 type: "Talk"
 address: "https://iciam2023.org/1030"
-category: "upcoming"
+category: "past"
 permalink: /talks/iciam23
 venue: "Waseda University"
 date_start: 2023-08-20
