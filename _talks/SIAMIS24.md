@@ -13,3 +13,5 @@ location: "Atlanta, Georgia"
 
 [SIAM Conference on Imaging Science (IS24)](https://www.siam.org/conferences/cm/conference/is24) will be at Atlanta, Georgia. 
 I will speak in the mini-symposium "[Computational Optimal Transport meets Imaging - Part I of II](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=79083)".
+
+Registration and travel support for this presentation was provided by National Science Foundation.
