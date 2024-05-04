@@ -10,3 +10,4 @@ date_start: 2024-06-23
 date_end: 2024-06-29
 location: "Java Center, NY"
 ---
+I would like to express my gratitude to the AMS Mathematics Research Communities for their generous support in funding my conference travel and participation.
