@@ -11,4 +11,4 @@ date_end: 2024-07-16
 location: "Seattle, WA"
 ---
 
-I will present a poster at [the NSF Computational Mathematics PI Meeting 2024](https://sites.google.com/uw.edu/compmath-pi-meeting-2024/home). 
+I will present a poster.
