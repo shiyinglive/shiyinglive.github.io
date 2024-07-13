@@ -17,11 +17,12 @@ Applied optimal transport, Mathematical data science, Signal/image analysis, App
 
 Recent Conferences and Activities 
 ======
-1. [The NSF Computational Mathematics PI Meeting 2024](https://sites.google.com/uw.edu/compmath-pi-meeting-2024/home), Seattle, WA, July 15-16, 2024
-2. [2024 MPS Workshop for New Investigators](https://reg.conferences.dce.ufl.edu/Physics), Alexandria, VA, July 7-9, 2024
-3. [MRC Conference Week 2: Mathematics of Adversarial, Interpretable, and Explainable AI](https://www.ams.org/programs/research-communities/2024MRC-AI) at Java Center, NY, June 23-29, 2024.
-4. [SIAM IS24](https://www.siam.org/conferences/cm/conference/is24), Atlanta, Georgia, May 28-31, 2024
-5. [Algorithms & PDE Summer School and Workshop](https://www.ndguillen.com/AlgorithmsAndPDE_TXST_UT/index.html), San Marcos & Austin, TX, May 13-19, 2024.
+1. [SIAM Conference on Mathematics of Data Science (MDS24)](https://www.siam.org/conferences/cm/conference/mds24), Atlanta, GA, Oct 21-25, 2024.
+2. [The NSF Computational Mathematics PI Meeting 2024](https://sites.google.com/uw.edu/compmath-pi-meeting-2024/home), Seattle, WA, July 15-16, 2024.
+4. [2024 MPS Workshop for New Investigators](https://reg.conferences.dce.ufl.edu/Physics), Alexandria, VA, July 7-9, 2024.
+5. [MRC Conference Week 2: Mathematics of Adversarial, Interpretable, and Explainable AI](https://www.ams.org/programs/research-communities/2024MRC-AI) at Java Center, NY, June 23-29, 2024.
+6. [SIAM IS24](https://www.siam.org/conferences/cm/conference/is24), Atlanta, Georgia, May 28-31, 2024.
+7. [Algorithms & PDE Summer School and Workshop](https://www.ndguillen.com/AlgorithmsAndPDE_TXST_UT/index.html), San Marcos & Austin, TX, May 13-19, 2024.
 
 
 
