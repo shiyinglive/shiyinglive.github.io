@@ -11,6 +11,6 @@ date_end: 2024-07-16
 location: "Seattle, WA"
 ---
 
-I will present a poster [The NSF Computational Mathematics PI Meeting 2024](https://sites.google.com/uw.edu/compmath-pi-meeting-2024/home)
+I will present a poster [The NSF Computational Mathematics PI Meeting 2024](https://sites.google.com/uw.edu/compmath-pi-meeting-2024/home).
 Thanks to the NSF and University of Washington for supporting my participation. I express my gratitude to orgainzers Bamdad Hosseini 
 (University of Washington), Akil Narayan (University of Utah), and Beatrice Riviere (Rice University) for their help and this wonderful conference.
