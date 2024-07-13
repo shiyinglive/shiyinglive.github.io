@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a [postdoc](https://math.unc.edu/people/postdocs/) in the Department of Mathematics at the University of North Carolina - Chapel Hill.
+I am currently a [postdoc](https://math.unc.edu/people/postdocs/) in the Department of Mathematics at the University of North Carolina - Chapel Hill. In Fall 2024, I will be joining the Department of Mathematics at the University of Nebraska-Lincoln as an Assistant Professor. 
 
-I am working with Prof. [Caroline Moosmueller](https://math.unc.edu/faculty-member/moosmueller-caroline/), who leads the [GEOMETRIC DATA ANALYSIS @ UNC](https://tarheels.live/cmoosm/) group. 
+I am currently working with Prof. [Caroline Moosmueller](https://math.unc.edu/faculty-member/moosmueller-caroline/), who leads the [GEOMETRIC DATA ANALYSIS @ UNC](https://tarheels.live/cmoosm/) group. 
 
 Research Interests
 ======
