@@ -17,7 +17,7 @@ Applied optimal transport, Mathematical data science, Signal/image analysis, App
 
 Recent Conferences and Activities 
 ======
-1. Talk at the [Applied Algebraic Topology Research Network (AATRN)](https://www.aatrn.net/home) [Seminar](https://www.aatrn.net/seminar), Mar 19, 2025.
+1. Talk at the [Applied Algebraic Topology Research Network (AATRN)](https://www.aatrn.net/home) [online Seminar](https://www.aatrn.net/seminar), Mar 19, 2025.
 2. [SIAM Conference on Mathematics of Data Science (MDS24)](https://www.siam.org/conferences/cm/conference/mds24), Atlanta, GA, Oct 21-25, 2024.
 3. [The NSF Computational Mathematics PI Meeting 2024](https://sites.google.com/uw.edu/compmath-pi-meeting-2024/home), Seattle, WA, July 15-16, 2024.
 4. [2024 MPS Workshop for New Investigators](https://reg.conferences.dce.ufl.edu/Physics), Alexandria, VA, July 7-9, 2024.
