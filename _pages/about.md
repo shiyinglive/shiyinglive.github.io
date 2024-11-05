@@ -18,12 +18,14 @@ Applied optimal transport, Mathematical data science, Signal/image analysis, App
 Recent Conferences and Activities 
 ======
 1. Online presentation at the [Applied Algebraic Topology Research Network (AATRN)](https://www.aatrn.net/home) [online Seminar](https://www.aatrn.net/seminar), Mar 19, 2025.
-2. [SIAM Conference on Mathematics of Data Science (MDS24)](https://www.siam.org/conferences/cm/conference/mds24), Atlanta, GA, Oct 21-25, 2024.
-3. [The NSF Computational Mathematics PI Meeting 2024](https://sites.google.com/uw.edu/compmath-pi-meeting-2024/home), Seattle, WA, July 15-16, 2024.
-4. [2024 MPS Workshop for New Investigators](https://reg.conferences.dce.ufl.edu/Physics), Alexandria, VA, July 7-9, 2024.
-5. [MRC Conference Week 2: Mathematics of Adversarial, Interpretable, and Explainable AI](https://www.ams.org/programs/research-communities/2024MRC-AI) at Java Center, NY, June 23-29, 2024.
-6. [SIAM IS24](https://www.siam.org/conferences/cm/conference/is24), Atlanta, Georgia, May 28-31, 2024.
-7. [Algorithms & PDE Summer School and Workshop](https://www.ndguillen.com/AlgorithmsAndPDE_TXST_UT/index.html), San Marcos & Austin, TX, May 13-19, 2024.
+2. Zoom talk at JHU AMS Postdoc Seminar, John Hopkins University, Nov 15 12:30pm Est, 2024.
+3. Zoom talk at FRG Informal Talk Series, UNC-Chapel Hill, Nov 15 3pm Est, 2024.
+5. [SIAM Conference on Mathematics of Data Science (MDS24)](https://www.siam.org/conferences/cm/conference/mds24), Atlanta, GA, Oct 21-25, 2024.
+6. [The NSF Computational Mathematics PI Meeting 2024](https://sites.google.com/uw.edu/compmath-pi-meeting-2024/home), Seattle, WA, July 15-16, 2024.
+7. [2024 MPS Workshop for New Investigators](https://reg.conferences.dce.ufl.edu/Physics), Alexandria, VA, July 7-9, 2024.
+8. [MRC Conference Week 2: Mathematics of Adversarial, Interpretable, and Explainable AI](https://www.ams.org/programs/research-communities/2024MRC-AI) at Java Center, NY, June 23-29, 2024.
+9. [SIAM IS24](https://www.siam.org/conferences/cm/conference/is24), Atlanta, Georgia, May 28-31, 2024.
+10. [Algorithms & PDE Summer School and Workshop](https://www.ndguillen.com/AlgorithmsAndPDE_TXST_UT/index.html), San Marcos & Austin, TX, May 13-19, 2024.
 
 
 
