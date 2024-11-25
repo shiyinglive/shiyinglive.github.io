@@ -3,7 +3,7 @@ title: "SIAM Conference on Imaging Science"
 collection: talks
 type: "Talk"
 address: "https://www.siam.org/conferences/cm/conference/is24"
-category: "upcoming"
+category: "past"
 permalink: /talks/SIAMIS24
 venue: "Westin Peachtree Plaza"
 date_start: 2024-05-28
