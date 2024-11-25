@@ -3,7 +3,7 @@ title: "MRC Conference on Mathematics of Adversarial, Interpretable, and Explain
 collection: talks
 type: "Talk"
 address: "https://www.ams.org/programs/research-communities/2024MRC-AI"
-category: "upcoming"
+category: "past"
 permalink: /talks/mrc24AI
 venue: "Beaver Hollow Conference Center "
 date_start: 2024-06-23
