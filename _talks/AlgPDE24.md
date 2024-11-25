@@ -3,7 +3,7 @@ title: "Algorithms and PDE"
 collection: talks
 type: "Talk"
 address: "https://www.ndguillen.com/AlgorithmsAndPDE_TXST_UT/index.html"
-category: "upcoming"
+category: "past"
 permalink: /talks/AlgPDE24
 venue: "Westin Peachtree Plaza"
 date_start: 2024-05-13
