@@ -3,7 +3,7 @@ title: "The NSF Computational Mathematics PI Meeting 2024"
 collection: talks
 type: "Talk"
 address: "https://sites.google.com/uw.edu/compmath-pi-meeting-2024/home"
-category: "upcoming"
+category: "past"
 permalink: /talks/CompMathPI24
 venue: "University of Washington at Seattle"
 date_start: 2024-07-15
