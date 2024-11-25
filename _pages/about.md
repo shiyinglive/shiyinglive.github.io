@@ -18,8 +18,9 @@ Applied optimal transport, Mathematical data science, Signal/image analysis, App
 Recent Conferences and Activities 
 ======
 1. Online presentation at the [Applied Algebraic Topology Research Network (AATRN)](https://www.aatrn.net/home) [online Seminar](https://www.aatrn.net/seminar), Mar 19, 2025.
-2. Zoom talk at JHU AMS Postdoc Seminar, John Hopkins University, Nov 15 12:30pm Est, 2024.
-3. Zoom talk at FRG Informal Talk Series, UNC-Chapel Hill, Nov 15 3pm Est, 2024.
+2. [Joint Mathematics Meetings (JMM)](https://jointmathematicsmeetings.org/meetings/national/jmm2025/2314_intro), [AMS Special Session on Modeling and Optimization on Graph-Structured Data](https://jointmathematicsmeetings.org/meetings/national/jmm2025/2314_program_ss81.html#title), Seattle, WA, Jan 8-11, 2025.  
+3. Zoom talk at JHU AMS Postdoc Seminar, John Hopkins University, Nov 15 12:30pm Est, 2024.
+4. Zoom talk at FRG Informal Talk Series, UNC-Chapel Hill, Nov 15 3pm Est, 2024.
 5. [SIAM Conference on Mathematics of Data Science (MDS24)](https://www.siam.org/conferences/cm/conference/mds24), Atlanta, GA, Oct 21-25, 2024.
 6. [The NSF Computational Mathematics PI Meeting 2024](https://sites.google.com/uw.edu/compmath-pi-meeting-2024/home), Seattle, WA, July 15-16, 2024.
 7. [2024 MPS Workshop for New Investigators](https://reg.conferences.dce.ufl.edu/Physics), Alexandria, VA, July 7-9, 2024.
