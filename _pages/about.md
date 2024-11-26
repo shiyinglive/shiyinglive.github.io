@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently an Assistant Professor in the [Department of Mathematics](https://math.unl.edu) at the University of Nebraska-Lincoln (UNL). 
+I am currently an [Assistant Professor](https://math.unl.edu/directory-group#1.-Faculty) in the [Department of Mathematics](https://math.unl.edu) at the University of Nebraska-Lincoln (UNL). 
 
 Before joining UNL, I was a postdoctoral research associate in the Department of Mathematics at the University of North Carolina - Chapel Hill, working with Prof. [Caroline Moosmueller](https://math.unc.edu/faculty-member/moosmueller-caroline/), who leads the [GEOMETRIC DATA ANALYSIS @ UNC](https://tarheels.live/cmoosm/) group. My research is partially supported by NSF award  [DMS--2410140](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2410140&HistoricalAwards=false).
 
