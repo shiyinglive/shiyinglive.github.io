@@ -16,9 +16,11 @@ Education
 
 Previous Appointments
 ======
-* Postdoctoral Research Associate, Aug 2019-2022, University of Virginia
- 
-   Mentor: Prof. [Gustavo Rohde](https://engineering.virginia.edu/faculty/gustavo-kunde-rohde), Biomedical Engineering, Electrical and Computer Engineering
+* Postdoctoral Research Associate, 2022-2024, University of North Carolina at Chapel Hill
   
-   [Imaging and Data Science Lab ](https://imagedatascience.com/)
+  Mentor: Prof. [Caroline Moosmüller](https://math.unc.edu/faculty-member/moosmueller-caroline/), Department of Mathematics, [Geometric Data Analysis @ UNC](https://tarheels.live/cmoosm/)
+  
+* Postdoctoral Research Associate, 2019-2022, University of Virginia
+ 
+   Mentor: Prof. [Gustavo Rohde](https://engineering.virginia.edu/faculty/gustavo-kunde-rohde), Biomedical Engineering, Electrical and Computer Engineering, [Imaging and Data Science Lab ](https://imagedatascience.com/)
 
