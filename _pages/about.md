@@ -17,16 +17,21 @@ Applied optimal transport, Mathematical data science, Signal/image analysis, App
 
 Recent Conferences and Activities 
 ======
-1. Online presentation at the [Applied Algebraic Topology Research Network (AATRN)](https://www.aatrn.net/home) [online Seminar](https://www.aatrn.net/seminar), Mar 19, 2025.
-2. [Joint Mathematics Meetings (JMM)](https://jointmathematicsmeetings.org/meetings/national/jmm2025/2314_intro), [AMS Special Session on Modeling and Optimization on Graph-Structured Data](https://jointmathematicsmeetings.org/meetings/national/jmm2025/2314_program_ss81.html#title), Seattle, WA, Jan 8-11, 2025.  
-3. Zoom talk at JHU AMS Postdoc Seminar, John Hopkins University, Nov 15 12:30pm Est, 2024.
-4. Zoom talk at FRG Informal Talk Series, UNC-Chapel Hill, Nov 15 3pm Est, 2024.
-5. [SIAM Conference on Mathematics of Data Science (MDS24)](https://www.siam.org/conferences/cm/conference/mds24), Atlanta, GA, Oct 21-25, 2024.
-6. [The NSF Computational Mathematics PI Meeting 2024](https://sites.google.com/uw.edu/compmath-pi-meeting-2024/home), Seattle, WA, July 15-16, 2024.
-7. [2024 MPS Workshop for New Investigators](https://reg.conferences.dce.ufl.edu/Physics), Alexandria, VA, July 7-9, 2024.
-8. [MRC Conference Week 2: Mathematics of Adversarial, Interpretable, and Explainable AI](https://www.ams.org/programs/research-communities/2024MRC-AI) at Java Center, NY, June 23-29, 2024.
-9. [SIAM IS24](https://www.siam.org/conferences/cm/conference/is24), Atlanta, Georgia, May 28-31, 2024.
-10. [Algorithms & PDE Summer School and Workshop](https://www.ndguillen.com/AlgorithmsAndPDE_TXST_UT/index.html), San Marcos & Austin, TX, May 13-19, 2024.
+1. Data Science and Statistics seminar at the University of Tennessee, Knoxville, Apr 24, 2025. 
+2. [Statistics and Optimal Transport Workshop](https://mathworkshops.wixsite.com/statsandot2025), Columbia University, Mar 27-28, 2025.
+3. Online presentation at the [Applied Algebraic Topology Research Network (AATRN)](https://www.aatrn.net/home) [online Seminar](https://www.aatrn.net/seminar), Mar 19, 2025.
+5. Continuum Mechanics Seminar at UNL, Mar 13 2:30pm, 2025.
+6. Mathematics Landscapes seminar at UNL, Feb 27 3:30pm, 2025.
+7. Mathematics Department [Colloquium](https://events.unl.edu/math?type=Colloquium) at UNL, Feb 21 4pm, 2025.
+8. [Joint Mathematics Meetings (JMM)](https://jointmathematicsmeetings.org/meetings/national/jmm2025/2314_intro), [AMS Special Session on Modeling and Optimization on Graph-Structured Data](https://jointmathematicsmeetings.org/meetings/national/jmm2025/2314_program_ss81.html#title), Seattle, WA, Jan 8-11, 2025.  
+9. Zoom talk at JHU AMS Postdoc Seminar, John Hopkins University, Nov 15 12:30pm Est, 2024.
+10. Zoom talk at FRG Informal Talk Series, UNC-Chapel Hill, Nov 15 3pm Est, 2024.
+11. [SIAM Conference on Mathematics of Data Science (MDS24)](https://www.siam.org/conferences/cm/conference/mds24), Atlanta, GA, Oct 21-25, 2024.
+12. [The NSF Computational Mathematics PI Meeting 2024](https://sites.google.com/uw.edu/compmath-pi-meeting-2024/home), Seattle, WA, July 15-16, 2024.
+13. [2024 MPS Workshop for New Investigators](https://reg.conferences.dce.ufl.edu/Physics), Alexandria, VA, July 7-9, 2024.
+14. [MRC Conference Week 2: Mathematics of Adversarial, Interpretable, and Explainable AI](https://www.ams.org/programs/research-communities/2024MRC-AI) at Java Center, NY, June 23-29, 2024.
+15. [SIAM IS24](https://www.siam.org/conferences/cm/conference/is24), Atlanta, Georgia, May 28-31, 2024.
+16. [Algorithms & PDE Summer School and Workshop](https://www.ndguillen.com/AlgorithmsAndPDE_TXST_UT/index.html), San Marcos & Austin, TX, May 13-19, 2024.
 
 
 
