@@ -17,16 +17,16 @@ Applied optimal transport, Mathematical data science, Signal/image analysis, App
 
 Recent Conferences and Activities 
 ======
-1. [2025 Women in Science of Data and Mathematics](https://datascience.unc.edu/wisdm-2025/), UNC-Chapel Hill, Aug 4-8, 2025.
-2. [NSF CompMath Meeting 2025](https://sites.google.com/gcloud.utah.edu/nsfcompmath-meeting-2025/home#h.u4s8zbolaggh), Salt Lake City, Utah, May 8-9, 2025.
-3. Data Science and Statistics seminar at the University of Tennessee, Knoxville, Apr 24 4:30pm EST., 2025.
-4. [Midwest Numerical Analysis Day 2025](https://math.unl.edu/midwest-numerical-analysis-day-2025/), Univeristy of Nebraska - Lincoln, Apr 5-6, 2025.
-5. [Statistics and Optimal Transport Workshop](https://mathworkshops.wixsite.com/statsandot2025), Columbia University, Mar 27-28, 2025.
+1. [2025 Women in Science of Data and Mathematics](https://datascience.unc.edu/wisdm-2025/), UNC-Chapel Hill, Aug 4-8, 2025. Caroline and Shiying will lead the project on “Optimal transport in cell biology”.
+2. [NSF CompMath Meeting 2025](https://sites.google.com/gcloud.utah.edu/nsfcompmath-meeting-2025/home#h.u4s8zbolaggh), Salt Lake City, Utah, May 8-9, 2025. 
+3. Data Science and Statistics seminar at the University of Tennessee, Knoxville, Apr 24 4:30pm EST., 2025. Shiying will give a presentation.
+4. [Midwest Numerical Analysis Day 2025](https://math.unl.edu/midwest-numerical-analysis-day-2025/), Univeristy of Nebraska - Lincoln, Apr 5-6, 2025. Co-organized with George Avalos, Huijing Du, and Petronela Radu. 
+5. [Statistics and Optimal Transport Workshop](https://mathworkshops.wixsite.com/statsandot2025), Columbia University, Mar 27-28, 2025. 
 6. Online presentation at the [Applied Algebraic Topology Research Network (AATRN)](https://www.aatrn.net/home) [online Seminar](https://www.aatrn.net/seminar), Mar 19, 2025.
-7. Continuum Mechanics Seminar at UNL, Mar 13 2:30pm CST, 2025.
-8. Mathematics Landscapes seminar at UNL, Feb 27 3:30pm CST, 2025.
-9. Mathematics Department [Colloquium](https://events.unl.edu/math?type=Colloquium) at UNL, Feb 21 4pm CST., 2025.
-10. [Joint Mathematics Meetings (JMM)](https://jointmathematicsmeetings.org/meetings/national/jmm2025/2314_intro), [AMS Special Session on Modeling and Optimization on Graph-Structured Data](https://jointmathematicsmeetings.org/meetings/national/jmm2025/2314_program_ss81.html#title), Seattle, WA, Jan 8-11, 2025.  
+7. Continuum Mechanics Seminar at UNL, Mar 13 2:30pm CST, 2025. Shiying will give a presentation.
+8. Mathematics Landscapes seminar at UNL, Feb 27 3:30pm CST, 2025. Shiying will give a presentation.
+9. Mathematics Department [Colloquium](https://events.unl.edu/math?type=Colloquium) at UNL, Feb 21 4pm CST., 2025. Shiying will give a presentation.
+10. [Joint Mathematics Meetings (JMM)](https://jointmathematicsmeetings.org/meetings/national/jmm2025/2314_intro), [AMS Special Session on Modeling and Optimization on Graph-Structured Data](https://jointmathematicsmeetings.org/meetings/national/jmm2025/2314_program_ss81.html#title), Seattle, WA, Jan 8-11, 2025. In-person presentation.
 11. Zoom talk at JHU AMS Postdoc Seminar, John Hopkins University, Nov 15 12:30pm Est, 2024.
 12. Zoom talk at FRG Informal Talk Series, UNC-Chapel Hill, Nov 15 3pm Est, 2024.
 13. [SIAM Conference on Mathematics of Data Science (MDS24)](https://www.siam.org/conferences/cm/conference/mds24), Atlanta, GA, Oct 21-25, 2024.
