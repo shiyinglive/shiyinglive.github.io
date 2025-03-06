@@ -19,7 +19,6 @@ Recent Conferences and Activities
 ======
 1. [2025 Women in Science of Data and Mathematics](https://datascience.unc.edu/wisdm-2025/), UNC-Chapel Hill, Aug 4-8, 2025. Caroline and Shiying will lead the project on “Optimal transport in cell biology”.
 2. [NSF CompMath Meeting 2025](https://sites.google.com/gcloud.utah.edu/nsfcompmath-meeting-2025/home#h.u4s8zbolaggh), Salt Lake City, Utah, May 8-9, 2025. 
-3. Data Science and Statistics seminar at the University of Tennessee, Knoxville, Apr 24 4:30pm EST., 2025. Shiying will give a presentation.
 4. [Midwest Numerical Analysis Day 2025](https://math.unl.edu/midwest-numerical-analysis-day-2025/), Univeristy of Nebraska - Lincoln, Apr 5-6, 2025. Co-organized with George Avalos, Huijing Du, and Petronela Radu. 
 5. [Statistics and Optimal Transport Workshop](https://mathworkshops.wixsite.com/statsandot2025), Columbia University, Mar 27-28, 2025. 
 6. Online presentation at the [Applied Algebraic Topology Research Network (AATRN)](https://www.aatrn.net/home) [online Seminar](https://www.aatrn.net/seminar), Mar 19, 2025.
