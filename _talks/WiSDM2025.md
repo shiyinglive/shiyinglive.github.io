@@ -15,7 +15,7 @@ location: "Chapel Hill, NC"
 
 We acknowledge with appreciation the support of NSF grants DMS-2520375 and DMS-2410140 for this research workshop and collaboration.
 
-[Caroline Moosmueller](https://math.unc.edu/faculty-member/moosmueller-caroline/) and Shiying led the project on “Optimal transport in cell biology.”
+[Caroline Moosmueller](https://math.unc.edu/faculty-member/moosmueller-caroline/) and I led the project on “Optimal transport in cell biology.” 
 We enjoyed lively discussions and hands-on explorations into optimal transport and its applications to spatial transcriptomics with our fellow group members. I’m excited to build on this work and explore it further in the months ahead.
 
 We had a great time in Chapel Hill. Here are a few photos from the workshop:  
