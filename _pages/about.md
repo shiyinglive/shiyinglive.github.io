@@ -19,7 +19,7 @@ Recent Conferences and Activities
 ======
 1. [International Conference on Computational Harmonic Analysis (ICCHA) 2026](https://my.vanderbilt.edu/iccha2026/), Vanderbilt University, May 18–22, 2026.
 2. Selected to participate in the [Faculty-led Inquiry into Reflective and Scholarly Teaching (FIRST)](https://peerreview.unl.edu/first-projects/) 2025–2026 Fall Start introductory program.
-3. Supported by the 2025-2026 [Faculty Affairs External Mentoring Program](https://executivevc.unl.edu/faculty/leadership-development/external-mentoring-program/) for mentorship by [Prof. Yuejie Chi](https://yuejiechi.github.io).
+3. Supported by the 2025-2026 [Faculty Affairs External Mentoring Program](https://executivevc.unl.edu/faculty/leadership-development/external-mentoring-program/) for mentorship by Prof. [Yuejie Chi](https://yuejiechi.github.io).
 4. [2025 Research Collaboration Workshop in Science of Data and Mathematics](https://datascience.unc.edu/wisdm-2025/), UNC-Chapel Hill, Aug 4-8, 2025. Caroline and I will lead the project on “Optimal transport in cell biology”.
 5. [NSF CompMath Meeting 2025](https://sites.google.com/gcloud.utah.edu/nsfcompmath-meeting-2025/home#h.u4s8zbolaggh), Salt Lake City, Utah, May 8-9, 2025. 
 6. [Midwest Numerical Analysis Day 2025](https://math.unl.edu/midwest-numerical-analysis-day-2025/), Univeristy of Nebraska - Lincoln, Apr 5-6, 2025. Co-organized with George Avalos, Huijing Du, and Petronela Radu. 
