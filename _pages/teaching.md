@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+
 Recent courses taught at UNC-Chapel Hill
 ======
 * Fall 2025:  Mathematics of Data Science (Graduate, MATH 939: Topics in Applied Mathematics)
