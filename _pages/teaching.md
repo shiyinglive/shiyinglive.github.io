@@ -7,8 +7,6 @@ redirect_from:
   - /courses
 ---
 
-{% include base_path %}
-
 
 Recent courses taught at UNC-Chapel Hill
 ======
