@@ -10,4 +10,6 @@ date_start: 2024-06-23
 date_end: 2024-06-29
 location: "Java Center, NY"
 ---
+[MRC Conference Week 2 on Mathematics of Adversarial, Interpretable, and Explainable AI](https://www.ams.org/programs/research-communities/2024MRC-AI). The associated [JMM2025 session](https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Session/10802). Social media [photos](https://www.instagram.com/p/C862nMGAxyR/?hl=en).
+
 I would like to express my gratitude to the AMS Mathematics Research Communities for their generous support in funding my conference travel and participation.
