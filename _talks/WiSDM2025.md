@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 address: "https://datascience.unc.edu/wisdm-2025/"
 category: "past"
-permalink: /talks/WISDM2025
+permalink: /talks/WiSDM2025
 venue: "University of North Carolina at Chapel Hill"
 date_start: 2025-08-04
 date_end: 2025-08-08
