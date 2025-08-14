@@ -15,6 +15,9 @@ Research Interests
 ======
 Applied optimal transport, Data geometry and biological applications, Mathematical data science, Signal/image analysis, Approximation theory (splines)
 
+\* *I am looking for strongly motivated postdoctoral researchers interested in the mathematics of data science, including applied/computational mathematics, mathematical modeling, and machine learning applications. Please email me if you are interested.*
+
+
 Recent Conferences and Activities 
 ======
 1. [International Conference on Computational Harmonic Analysis (ICCHA) 2026](https://my.vanderbilt.edu/iccha2026/), Vanderbilt University, May 18–22, 2026. I will give a presentation. 
