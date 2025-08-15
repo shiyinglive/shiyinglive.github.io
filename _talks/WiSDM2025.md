@@ -11,7 +11,7 @@ date_end: 2025-08-08
 location: "Chapel Hill, NC"
 ---
 
-[The 2025 Research Collaboration Workshop in Science of Data and Mathematics (WISDM)](https://datascience.unc.edu/wisdm-2025/) took place at UNC-Chapel Hill, August 4–8, 2025.
+[The 2025 Research Collaboration Workshop in Science of Data and Mathematics (WISDM)](https://datascience.unc.edu/wisdm-2025/) took place at UNC-Chapel Hill, August 4–8, 2025. [Featured news](https://datascience.unc.edu/newspost/wisdm/)
 
 We acknowledge with appreciation the support of NSF grants DMS-2520375 and DMS-2410140 for this research workshop and collaboration.
 
