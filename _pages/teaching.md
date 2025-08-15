@@ -12,7 +12,7 @@ Recent courses taught at UNL
 * Fall 2025:  Mathematics of Data Science (Graduate, MATH 939: Topics in Applied Mathematics)
 * Spring 2025: Linear Algebra (MATH 314)
   
-Recent courses taught at UNC-Chapel Hill
+Courses taught at UNC-Chapel Hill
 ======
 * Spring 2024: Mathematics for Data Science (MATH 210)
 * Fall 2023: Linear Algebra for Applications (MATH 347)
