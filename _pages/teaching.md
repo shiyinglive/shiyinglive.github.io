@@ -18,7 +18,7 @@ redirect_from:
 * Fall 2022: Numerical Analysis (MATH 566)
 
 ## Co-Instructed courses at UVA
-* Spring 2021: Computational Biomedical Engineering (BME 2315) (sample video lectures: [Wave equation finite differences](https://www.youtube.com/watch?v=8v-YCK1scpY),[PDE Examples and boundary conditions](https://www.youtube.com/watch?v=PKwLsS6jR5Y); Disclaimer: These videos were recorded in one or two takes with minimal editing and may include brief pauses or filler words.)
+* Spring 2021: Computational Biomedical Engineering (BME 2315) (sample video lectures: [Wave equation finite differences](https://www.youtube.com/watch?v=8v-YCK1scpY), [PDE Examples and boundary conditions](https://www.youtube.com/watch?v=PKwLsS6jR5Y). See the Youtube [channel](https://www.youtube.com/@gr_teach9030) for more; Disclaimer: These videos were recorded in one or two takes with minimal editing and may include brief pauses or filler words.)
 * Fall 2020: Transport Methods in Signal Processing and Machine learning (Graduate, BME 6550)
 
 
