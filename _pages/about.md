@@ -15,7 +15,7 @@ Research Interests
 ======
 Applied optimal transport, Data geometry and biological applications, Mathematical data science, Signal/image analysis, Approximation theory (splines)
 
-\* *I am looking for strongly motivated postdoctoral researchers interested in the mathematics of data science, including applied/computational mathematics, mathematical modeling, and machine learning applications. Please email me if you are interested.*
+\* *I am looking for strongly motivated postdoctoral researchers interested in the mathematics of data science, including applied/computational mathematics, mathematical modeling, and machine learning applications. Please check the [Job openning](https://math.unl.edu/about/job-openings/); application detials will be posted soon.*
 
 
 Recent Conferences and Activities 
