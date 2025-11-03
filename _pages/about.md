@@ -15,7 +15,8 @@ Research Interests
 ======
 Applied optimal transport, Data geometry and biological applications, Mathematical data science, Signal/image analysis, Approximation theory (splines)
 
-\* *I am looking for strongly motivated postdoctoral researchers interested in the mathematics of data science, including applied/computational mathematics, mathematical modeling, and machine learning applications. Please apply through the [University Job portal](https://jobs.nebraska.edu/UniversityNebraskaSystem/job/Postdoctoral-Associate/1037-en_US) and [MathJobs](https://www.mathjobs.org/jobs/list/27177). 
+\* *I am looking for strongly motivated postdoctoral researchers interested in the mathematics of data science, including applied/computational mathematics, mathematical modeling, and machine learning applications. Please apply through the [University Job portal](https://jobs.nebraska.edu/UniversityNebraskaSystem/job/Postdoctoral-Associate/1037-en_US) and [MathJobs](https://www.mathjobs.org/jobs/list/27177). (For an application to be considered, it must be successfully submitted through both systems.)
+
 
 
 Recent Conferences and Activities 
