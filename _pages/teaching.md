@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 ## Recent courses taught at UNL
+* Fall 2026: Mathematics of Machine Learning (Math 432)
+* Spring 2026: Math in the City (Math 435)
 * Fall 2025:  Mathematics of Data Science (Graduate, MATH 939: Topics in Applied Mathematics)
 * Spring 2025: Linear Algebra (MATH 314)
   
