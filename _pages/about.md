@@ -15,7 +15,7 @@ Research Interests
 ======
 Applied optimal transport, Data geometry and biological applications, Mathematical data science, Signal/image analysis, Approximation theory (splines)
 
-\* *I am interested in working with strongly motivated postdoctoral researchers interested in the mathematics of data science, including applied/computational mathematics, optimal transport, mathematical modeling, and machine learning applications. See [MathJobs](https://www.mathjobs.org/jobs/list/27177) for a recently filled position.  
+\* *I am interested in working with strongly motivated postdoctoral researchers interested in the mathematics of data science, including computational/applied mathematics, optimal transport, mathematical modeling, and machine learning applications. See [MathJobs](https://www.mathjobs.org/jobs/list/27177) for a recently filled position.  
 
 
 
