@@ -21,7 +21,7 @@ Applied optimal transport, Data geometry and biological applications, Mathematic
 
 Recent Conferences and Activities 
 ======
-1.  [ICM 2026](https://www.icm2026.org/event/ac193975-5d24-4628-8c30-ddb23de19a8b/home?environment=P2), Pennsylvania Convention Center, July 23 - 30, 2026. 
+1.  [ICM 2026](https://www.icm2026.org/event/ac193975-5d24-4628-8c30-ddb23de19a8b/home?environment=P2), Pennsylvania Convention Center, Philadelphia, Pennsylvania, July 23 - 30, 2026. 
 2.  [SPARK Math and Data Science Camp](https://4h.unl.edu/statewide-events-opportunities/big-red-summer-academic-camps/camp-sessions/#tab-item-math-&-data-science-camp-3538) for high school students, June 7 - 12, 2026. Generous scholarships available. [Nebraska Today News](https://news.unl.edu/article/big-red-camps-prep-students-for-college-careers).
 3.  [International Conference on Computational Harmonic Analysis (ICCHA) 2026](https://my.vanderbilt.edu/iccha2026/), Vanderbilt University, May 18–22, 2026. I will give a presentation.
 4. UNL Mathematics Landscapes Seminar, April 30, 2026. I gave a presentation. 
